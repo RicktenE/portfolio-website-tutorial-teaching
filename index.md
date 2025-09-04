@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 # Test Testtext
 ## My projects
 ## My skilss
